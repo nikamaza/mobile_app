@@ -30,4 +30,5 @@
 Mobile Development: Flutter, Dart.
 Database: SQLite (sqflite).
 Architecture: Clean Architecture, BLoC/Provider (State Management).
+
 Проект выполнен в рамках курсовой работы в Технологическом колледже ФГБОУ ВО РГАУ-МСХА имени К.А. Тимирязева (2026 г.)
